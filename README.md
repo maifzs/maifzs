@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   
 <h1>GitHub Stats 📊</h1>
  
-![Maila's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=maifzs&show_icons=true&theme=algolia) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maifzs&theme=dracula)](https://git.io/streak-stats) 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maifzs&show_icons=true&theme=algolia"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maifzs&theme=dracula"/>
