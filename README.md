@@ -32,5 +32,7 @@ Here are some ideas to get you started:
   
 <h1>GitHub Stats 📊</h1>
  
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maifzs&show_icons=true&theme=algolia"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maifzs&theme=dracula"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=maifzs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maifzs&theme=dracula"/>
+</p>
