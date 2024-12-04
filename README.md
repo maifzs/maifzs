@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm learning the Machine Learning path at Bangkit 2023.
 - 📚 More about me: 
 [![Linkedin](https://img.shields.io/badge/-Maila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maila-faiza-shafira-44a0b3260/)
+[![Canva](https://img.shields.io/badge/-Portofolio-27b4d8?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGFSRRW8b8/hQ2eSYbZof_cneGmAWMVuw/view?utm_content=DAGFSRRW8b8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 [![Instagram](https://img.shields.io/badge/-mailafz__-white?style=flat&logo=Instagram&logoColor=white&color=833AB4)](https://www.instagram.com/mailafz_/)
 [![Gmail](https://img.shields.io/badge/-Contact_me_via_Gmail-c14438?style=flat&logo=Gmail&logoColor=white&color=BB001B)](mailto:mailafaizashafira@gmail.com)
 
