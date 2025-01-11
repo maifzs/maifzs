@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I'm a student at Bina Sarana Informatika University.
 - 🌱 I'm majoring in Information System.
 - 💬 Pronouns: She/Her/Hers.
-- ⚡ Fun fact: I'm learning the Machine Learning path at Bangkit 2023.
+- ⚡ Fun fact: I'm learning the Machine Learning path at Bangkit 2023, became Juara in GCP, and learning Data Analyst in DigiTalent.
 - 📚 More about me: 
 [![Linkedin](https://img.shields.io/badge/-Maila-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maila-faiza-shafira-44a0b3260/)
 [![Canva](https://img.shields.io/badge/-Portofolio-27b4d8?style=flat&logo=Canva&logoColor=white)](https://www.canva.com/design/DAGFSRRW8b8/hQ2eSYbZof_cneGmAWMVuw/view?utm_content=DAGFSRRW8b8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
